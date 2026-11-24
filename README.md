@@ -2,12 +2,6 @@
   <img src="https://cairoramos7.github.io/og-image.png" alt="Cairo Ramos, Desenvolvedor Full Stack. Node.js, NestJS, React e Next.js" width="100%" />
 </p>
 
-<h1 align="center">Cairo Ramos</h1>
-<p align="center">
-  <strong>Desenvolvedor Full Stack</strong><br />
-  TypeScript · Node.js · NestJS · React · Next.js
-</p>
-
 <p align="center">
   <a href="https://cairoramos7.github.io/">Portfólio</a> · <a href="https://www.linkedin.com/in/cairoramos-dev/">LinkedIn</a> · <a href="mailto:cairoramos7@gmail.com">E-mail</a>
 </p>
