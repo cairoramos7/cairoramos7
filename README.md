@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1aa7e270-749d-45c8-bc20-6c9f7eab1a9a" alt="Abstract software architecture banner" width="100%" />
+  <img src="https://cairoramos7.github.io/og-image.png" alt="Cairo Ramos, Desenvolvedor Full Stack. Node.js, NestJS, React e Next.js" width="100%" />
 </p>
 
 <h1 align="center">Cairo Ramos</h1>
