@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cairoramos-dev/">LinkedIn</a> · <a href="mailto:cairoramos7@gmail.com">E-mail</a>
+  <a href="https://cairoramos7.github.io/">Portfólio</a> · <a href="https://www.linkedin.com/in/cairoramos-dev/">LinkedIn</a> · <a href="mailto:cairoramos7@gmail.com">E-mail</a>
 </p>
 
 ---
@@ -32,12 +32,14 @@ Sou desenvolvedor Full Stack, com mais de 10 anos de experiência em produtos we
 
 ## Projetos em destaque
 
-Os repositórios fixados abaixo mostram exemplos de arquitetura back-end, componentes React reutilizáveis, ferramentas para desenvolvedores e aplicações voltadas a produto.
+Os repositórios fixados abaixo mostram exemplos de arquitetura back-end, componentes React reutilizáveis, ferramentas para desenvolvedores e aplicações voltadas a produto. Demos e sistemas em produção estão no [portfólio](https://cairoramos7.github.io/).
 
 - **com.node-app**: aplicação Node.js estruturada com Domain-Driven Design
 - **react-adapt-table**: componente de tabela flexível em React, para Tailwind CSS e Bootstrap
 - **image-hues**: biblioteca TypeScript para extrair cores dominantes e de contraste de imagens
 - **md2pdf**: conversão de Markdown para PDF com preview em tempo real, diagramas Mermaid e callouts do Obsidian
+- **Nexhub** (código privado): CMS headless multi-tenant e self-hosted, desenvolvido individualmente, com NestJS, PostgreSQL, Redis, BullMQ e Docker
+- **Igreja Videira** ([videiraslmb.com](https://videiraslmb.com)): site em Next.js que usa o Nexhub como CMS, com webhooks verificados por HMAC e integração com a API do YouTube
 
 ## Busco
 
@@ -45,4 +47,4 @@ Oportunidades remotas como desenvolvedor Full Stack ou Back-end, em times que re
 
 ---
 
-<p align="center"><i>Aberto a oportunidades remotas no Brasil.</i></p>
+<p align="center"><i>Aberto a oportunidades remotas, no Brasil e fora dele.</i></p>
