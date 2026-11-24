@@ -33,7 +33,6 @@ Os repositórios fixados abaixo mostram exemplos de arquitetura back-end, compon
 - **image-hues**: biblioteca TypeScript para extrair cores dominantes e de contraste de imagens
 - **md2pdf**: conversão de Markdown para PDF com preview em tempo real, diagramas Mermaid e callouts do Obsidian
 - **Nexhub** (código privado): CMS headless multi-tenant e self-hosted, desenvolvido individualmente, com NestJS, PostgreSQL, Redis, BullMQ e Docker
-- **Igreja Videira** ([videiraslmb.com](https://videiraslmb.com)): site em Next.js que usa o Nexhub como CMS, com webhooks verificados por HMAC e integração com a API do YouTube
 
 ## Busco
 
