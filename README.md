@@ -4,44 +4,45 @@
 
 <h1 align="center">Cairo Ramos</h1>
 <p align="center">
-  <strong>Senior Full Stack Engineer</strong><br />
+  <strong>Desenvolvedor Full Stack</strong><br />
   TypeScript · Node.js · NestJS · React · Next.js
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cairoramos-dev/">LinkedIn</a> · <a href="mailto:cairoramos7@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/cairoramos-dev/">LinkedIn</a> · <a href="mailto:cairoramos7@gmail.com">E-mail</a>
 </p>
 
 ---
 
-## Building reliable software from API to interface
+## Software confiável, da API à interface
 
-I am a Senior Full Stack Engineer with 10+ years of experience building web, backend, and mobile products. I work across product development, software architecture, integrations, and cloud deployments — with an emphasis on maintainable code and pragmatic technical decisions.
+Sou desenvolvedor Full Stack, com mais de 10 anos de experiência em produtos web, back-end e mobile. Atuo em desenvolvimento de produtos, arquitetura, integrações e deploy em nuvem, com foco em código fácil de manter e decisões técnicas pragmáticas.
 
-- Design and build REST and GraphQL APIs, integrations, and asynchronous workflows
-- Develop full-stack web applications and cross-platform mobile products
-- Apply clean architecture and Domain-Driven Design principles
-- Deploy and operate applications with AWS, Docker, SQL, and NoSQL databases
+- Desenvolvo APIs REST e GraphQL, integrações e fluxos assíncronos
+- Construo aplicações web full stack e produtos mobile multiplataforma
+- Aplico Clean Architecture e princípios de Domain-Driven Design
+- Faço deploy e sustentação de aplicações com AWS, Docker e bancos SQL e NoSQL
+- Uso IA no desenvolvimento, com agentes de código, validando tecnicamente cada resultado antes de integrar
 
-## Core stack
+## Stack principal
 
-| Backend & architecture | Frontend & mobile | Infrastructure & data |
+| Back-end e arquitetura | Front-end e mobile | Infraestrutura e dados |
 | --- | --- | --- |
 | TypeScript · Node.js · NestJS · REST · GraphQL · DDD | React · Next.js · React Native | AWS · Docker · PostgreSQL · MongoDB |
 
-## Selected work
+## Projetos em destaque
 
-The pinned repositories below show examples of backend architecture, reusable React components, developer tooling, and product-oriented applications.
+Os repositórios fixados abaixo mostram exemplos de arquitetura back-end, componentes React reutilizáveis, ferramentas para desenvolvedores e aplicações voltadas a produto.
 
-- **com.node-app** — Node.js application structured with Domain-Driven Design
-- **react-adapt-table** — Flexible React table component for Tailwind CSS and Bootstrap
-- **image-hues** — TypeScript library for extracting dominant and contrast colors from images
-- **md2pdf** — Markdown-to-PDF conversion with live preview, Mermaid diagrams, and Obsidian callouts
+- **com.node-app**: aplicação Node.js estruturada com Domain-Driven Design
+- **react-adapt-table**: componente de tabela flexível em React, para Tailwind CSS e Bootstrap
+- **image-hues**: biblioteca TypeScript para extrair cores dominantes e de contraste de imagens
+- **md2pdf**: conversão de Markdown para PDF com preview em tempo real, diagramas Mermaid e callouts do Obsidian
 
-## Currently interested in
+## Busco
 
-Remote opportunities as a **Senior Full Stack Engineer**, **Senior Backend Engineer**, or **Software Engineer** — especially teams solving meaningful product and systems-integration problems.
+Oportunidades remotas como desenvolvedor Full Stack ou Back-end, em times que resolvem problemas reais de produto e de integração entre sistemas.
 
 ---
 
-<p align="center"><i>Open to remote opportunities in Brazil and internationally.</i></p>
+<p align="center"><i>Aberto a oportunidades remotas no Brasil.</i></p>
